@@ -1,0 +1,45 @@
+[color=#383838]▄[/color][color=#ffffff00]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form: [/bold][color=#ff0000]CL-3022[/color]
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff00]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3]Damage Record & Fiscal Cost[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bolditalic]Recording Liaison: [/bolditalic][color=#25b266][signature][/color]
+[bolditalic]Colony Name: [/bolditalic][color=red][form][/color]
+
+[bolditalic]Damage Severity[/bolditalic]
+    [bullet]Minor: [color=red][check][/color]
+    [bullet]Moderate: [color=red][check][/color]
+    [bullet]Major: [color=red][check][/color]
+    [bullet]Destroyed: [color=red][check][/color]
+    [bullet]Unknown: [color=red][check][/color]
+
+[bolditalic]Cause of Damage: [/bolditalic][color=red][form][/color]
+
+[bolditalic]Recoverability:[/bolditalic][color=red][form][/color]
+
+
+[head=3]Area(s)/Asset(s) of High-Value:[/head]
+[bullet][color=#eb7a23][form][/color]: [color=#25b266]$[form][/color]
+[bullet][color=#eb7a23][form][/color]: [color=#25b266]$[form][/color]
+[bullet][color=#eb7a23][form][/color]: [color=#25b266]$[form][/color]
+[bullet][color=#eb7a23][form][/color]: [color=#25b266]$[form][/color]
+
+[head=3]Additional Information (If Any):[/head]
+
+[bolditalic]CL-654 (Asset Protection Agreement) Signed?[/bolditalic]
+     [italic][check] Yes[/italic][color=#eb7a23][/color]
+     [italic][check] No[/italic][color=#eb7a23][/color]
+
+
+[head=3]Total Fiscal Cost: [color=#eb7a23]$[form][/color][/head]
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Legal Information[/head]
+[italic]In the case that damage to colonial assets owned by the Weston-Yamada Corporation occurs, this form is to be filled to the best of the Recording Liaison’s ability, and is to be filed with the Weston-Yamada Economics Division.
+
+If damage to the colony occurs due to the actions of UNMC Personnel, and Form [color=#ff0000]CL-654[/color] (Asset Protection Agreement) has not been signed, this form is to be filed and invoiced with the current Commander of the Operation, the Weston-Yamada Corporation, and Marine High Command.
+If Multiple Orbital Barrages have been ordered, or the extent of damage is unknown, the Weston-Yamada Corporation withholds the right to bill for the full cost of the colony, and/or its pertinent assets.
+The UNMC is expected to pay for any and all damage that a colony suffers as a result of a military operation, if [color=#ff0000]CL-654[/color] has not been signed. Failure to do so will result in legal action.[/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Weston-Yamada Special Services Division,
+[color=#25b266][signature], UNS Almayer[/color]
